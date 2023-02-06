@@ -2,6 +2,8 @@
 name = 'googletest-tonic'
 version = '0.2.0'
 edition = '2021'
+description = 'Provides googletest matchers related to tonic.'
+license = 'MIT'
 
 [dependencies]
 tonic = '0.8'
