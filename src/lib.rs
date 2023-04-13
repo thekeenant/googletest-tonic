@@ -1,3 +1,4 @@
+mod extensions;
 mod request;
 mod response;
 
